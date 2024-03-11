@@ -6,3 +6,5 @@ Senior developer: Jeremy Roger Maguigad
 Junior developer: Joshua Pagkaliwangan
 System Analyst: Ralph Matthew Sabuco
 QA Tester: Jethro Brandon Peralta
+
+The code itself was mostly made by our senior and junior developer. Thank you.
